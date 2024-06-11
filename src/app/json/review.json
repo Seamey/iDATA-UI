@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "user":[
+            {"id": 1,
+             "name": "John Doe",
+              "email": "johson@gmail.com",
+              "position":"CEO of Web Design",
+              "avatar":"avatar.jpg"
+            }
+        ],
+        "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat consequuntur iste beatae voluptas. Accusantium minima, similique ratione nisi possimus voluptate eius quia cum facere quisquam aperiam nobis facilis quod incidunt?"
+    },
+    {
+        "id": 2,
+        "user":[
+            {"id": 2,
+             "name": "Jessica Sun",
+              "email": "Jessica@gmail.com",
+              "position":"Backend Developer",
+              "avatar":"avatar.jpg"
+            }
+        ],
+        "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat consequuntur iste beatae voluptas. Accusantium minima, similique ratione nisi possimus voluptate eius quia cum facere quisquam aperiam nobis facilis quod incidunt?"
+    },
+    {
+        "id": 3,
+        "user":[
+            {"id": 3, 
+            "name": "Kay Kang",
+             "email": "kang@gmail.com",
+             "position":"Frontend Developer",
+             "avatar":"avatar.jpg"
+            }
+        ],
+        "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat consequuntur iste beatae voluptas. Accusantium minima, similique ratione nisi possimus voluptate eius quia cum facere quisquam aperiam nobis facilis quod incidunt?"
+    },
+    {
+        "id": 4,
+        "user":[
+            {"id": 4,
+             "name": "Jipor Sreng", 
+             "email": "jipor@gmail.com",
+             "position":"Database Administrator",
+             "avatar":"avatar.jpg"
+            }
+        ],
+        "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat consequuntur iste beatae voluptas. Accusantium minima, similique ratione nisi possimus voluptate eius quia cum facere quisquam aperiam nobis facilis quod incidunt?"
+    },
+    {
+        "id": 5,
+        "user":[
+            {"id": 5, 
+            "name": "Helen Leang", 
+            "email": "helen@gmail.com",
+            "position":"Data Analysis"
+        }
+        ],
+        "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat consequuntur iste beatae voluptas. Accusantium minima, similique ratione nisi possimus voluptate eius quia cum facere quisquam aperiam nobis facilis quod incidunt?"
+    },
+    {
+        "id": 6,
+        "user":[
+            {"id": 6, 
+            "name": "Seamey Channtha", 
+            "email": "seamey@gmail.com",
+            "position": "Cyber Security"
+        }
+        ],
+        "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat consequuntur iste beatae voluptas. Accusantium minima, similique ratione nisi possimus voluptate eius quia cum facere quisquam aperiam nobis facilis quod incidunt?"
+    }
+]

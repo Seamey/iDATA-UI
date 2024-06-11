@@ -1,0 +1,72 @@
+{
+    "memebers":{
+        "helen":{
+            "name":"Leang Helen",
+            "position":"Frontend Developer",
+            "quote":"it is soon will be in the past.",
+            "fb_social":"https://m.facebook.com/mochi.lazing?mibextid=LQQJ4d",
+            "git_hub":"https://github.com/Hemechi",
+            "git_lab":"https://gitlab.com/Hemechi"
+        },
+        "seamey":{
+            "name":"Channtha Seamey",
+            "position":"Frontend Developer",
+            "quote":"Follow your own road and leave the people talk.",
+            "fb_social":"https://www.facebook.com/profile.php?id=100030334253914&mibextid=LQQJ4d",
+            "git_hub":"https://github.com/Seamey",
+            "git_lab":"https://gitlab.com/seameychanntha26"
+        },
+        "chiso":{
+            "name":"Proeng Chiso",
+            "position":"Frontend Developer",
+            "quote":"Sleepy eyes, Busy minds. 224",
+            "fb_social":"https://www.facebook.com/chiso.soo?mibextid=LQQJ4d",
+            "git_hub":"https://github.com/ProeungChiso",
+            "git_lab":"https://gitlab.com/ProeungChiso"
+        },
+        "chipor":{
+            "name":"Sreng Chipor",
+            "position":"Backend Developer",
+            "quote":"Why do Java developers wear glasses? Because they don't C#.",
+            "fb_social":"https://www.facebook.com/sreng.chipor?mibextid=LQQJ4d",
+            "git_hub":"https://github.com/jipordev",
+            "git_lab":"https://gitlab.com/jipordev"
+        },
+        "sokcheat":{
+            "name":"Srorng Sokcheat",
+            "position":"Backend Developer",
+            "quote":"Let's grow together.",
+            "fb_social":"https://www.facebook.com/srorng.sokcheat?mibextid=LQQJ4d",
+            "git_hub":"https://github.com/Sokcheatsrorng",
+            "git_lab":"https://gitlab.com/Sokcheatsrorng"
+        },
+        "kang":{
+            "name":"Kay Kang",
+            "position":"Backend Developer",
+            "quote":"What you Give is What you Get.",
+            "fb_social":"https://www.facebook.com/kang.kay.351?mibextid=LQQJ4d",
+            "git_hub":"https://github.com/kevin-kang-tido",
+            "git_lab":"https://gitlab.com/kevinkangtido"
+        }
+        
+    },
+    "mentors":{
+        "keo":{
+            "name":"Kay Keo",
+            "position":"Fullstack Developer",
+            "quote":"Every bug and error I faced makes me stronger. At this rate, I'll soon be invincible!",
+            "fb_social":"https://www.facebook.com/profile.php?id=100009996454316&mibextid=LQQJ4d",
+            "git_hub":"https://github.com/keoKAY",
+            "git_lab":"https://gitlab.com/keoKAY"
+        },
+        "jessica":{
+            "name":"Sun Jessica",
+            "position":"Fullstack Developer",
+            "quote":"if you want the rainbow, you gotta put up with the rain.",
+            "fb_social":"https://www.facebook.com/profile.php?id=100010500511225&mibextid=LQQJ4d",
+            "git_hub":"https://github.com/JessicaaSun",
+            "git_lab":"https://gitlab.com/JessicaaSun"
+        }
+        
+    }
+}

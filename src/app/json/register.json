@@ -1,0 +1,10 @@
+{
+    "user":{
+        "fistName":"",
+        "lastName":"",
+        "username":"",
+        "email":"",
+        "password":"",
+        "confirmPassword":""
+    }
+}
